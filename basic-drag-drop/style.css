@@ -1,0 +1,12 @@
+#wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#div1, #div2 {
+    width: 350px;
+    height: 70px;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+  }
